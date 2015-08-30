@@ -1,0 +1,5 @@
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Common\bin\Release\Blowing.XiaoFengBanJia.Common.dll
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Common\bin\Release\Blowing.XiaoFengBanJia.Common.pdb
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Common\obj\Release\Blowing.XiaoFengBanJia.Common.csprojResolveAssemblyReference.cache
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Common\obj\Release\Blowing.XiaoFengBanJia.Common.dll
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Common\obj\Release\Blowing.XiaoFengBanJia.Common.pdb

@@ -1,0 +1,11 @@
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Bll\bin\Release\Blowing.XiaoFengBanJia.Bll.dll
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Bll\bin\Release\Blowing.XiaoFengBanJia.Bll.pdb
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Bll\obj\Release\Blowing.XiaoFengBanJia.Bll.csprojResolveAssemblyReference.cache
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Bll\obj\Release\Blowing.XiaoFengBanJia.Bll.dll
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Bll\obj\Release\Blowing.XiaoFengBanJia.Bll.pdb
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Bll\bin\Release\Blowing.XiaoFengBanJia.Dal.dll
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Bll\bin\Release\Blowing.XiaoFengBanJia.Model.dll
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Bll\bin\Release\Blowing.XiaoFengBanJia.Common.dll
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Bll\bin\Release\Blowing.XiaoFengBanJia.Dal.pdb
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Bll\bin\Release\Blowing.XiaoFengBanJia.Model.pdb
+F:\WorkSpace\NET\XiaoFengBanjia\Blowing.XiaoFengBanJia\Blowing.XiaoFengBanJia.Bll\bin\Release\Blowing.XiaoFengBanJia.Common.pdb
